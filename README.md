@@ -1,6 +1,6 @@
 # ecse395-team12-main
 ECSE395 Team12 Cat Litter Box
-
+# testing 
 # Prototype 1 – Motor + Safety Gating (TT Motor + L9110S + ESP32 + IR Obstacle Sensor)
 
 **Team:** ECSE 395 Team 12  
