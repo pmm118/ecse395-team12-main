@@ -1,3 +1,4 @@
+/*
 #include <Arduino.h>
 
 /*
@@ -11,7 +12,7 @@ Logic:
 4. If still no motion → run CCW ~10 turns
 5. If motion detected anytime → stop motor
 6. After one cycle → wait for next cat activity
-*/
+
 
 //
 // Pin configuration
@@ -258,3 +259,5 @@ void loop() {
 
   delay(10);
 }
+
+*/
